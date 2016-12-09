@@ -1,0 +1,27 @@
+.style-button{
+	display: inline-block;
+	font-size: 30;
+}
+.disabled {
+   pointer-events: none;
+   cursor: default;
+}
+.user-image {
+	height: 200px;
+	width: 200px;
+	border-radius: 100px;
+	display: block;
+	margin: 0 auto;
+}
+p.userinfo {
+	background-color: #f50057;
+	color: #fff;
+	padding: 10px;
+	margin: 5px;
+	display: inline-block;
+}
+
+h4.userinfo {
+	color: #3f51b5;
+	margin-left: 5px;
+}
