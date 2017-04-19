@@ -1,1 +1,1 @@
-This is a blog project.
+A blog website where any user can upload there blogs.
